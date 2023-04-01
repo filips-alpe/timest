@@ -35,7 +35,8 @@ function main() {
 main();
 
 function printLine(line: DeliveredIncrement) {
-  return `${line.task}    ${dots(line.durationMinutes)}`;
+  const task = line.task.padEnd(35);
+  return `${task} ${dots(line.durationMinutes)}`;
 }
 
 function dots(durationMinutes: number): string {
