@@ -22,6 +22,7 @@ function main() {
 
   let output = "";
   for (const [day, entries] of result) {
+    output += "\n";
     output += printDay(new Date(day));
     output += "\n";
     for (const entry of entries) {
