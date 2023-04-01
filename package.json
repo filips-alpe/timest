@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "npx ts-node scripts/run.ts"
   },
   "dependencies": {
     "@types/node": "18.15.11",

@@ -1,0 +1,13 @@
+commit 82167f0184b7e5bb0c1c969e439a5430ca2fa364
+Author: Filips Alpe <filips.alpe@gmail.com>
+Date:   Sat Apr 1 18:28:10 2023 +0300
+
+    Build this tool with ChatGPT
+    
+    This is the first working version
+
+commit a5f255faac7e03bf89a6a2503b4d542e198a37e2
+Author: Filips Alpe <filips.alpe@gmail.com>
+Date:   Sat Apr 1 15:02:56 2023 +0300
+
+    Create new Next.js app
