@@ -31,7 +31,6 @@ Usage:
 git clone git@github.com:filips-alpe/timest.git
 cd timest
 npm i && npm t
-
 ```
 
 Now, copy your .ics file to `data/calendar.ics`. [Google Calendar instructions](https://support.google.com/calendar/answer/37111).
